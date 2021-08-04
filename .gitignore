@@ -1,0 +1,5 @@
+.idea
+__pycache__
+venv
+/src/periodic.egg-info/
+/src/scheduler.egg-info/
